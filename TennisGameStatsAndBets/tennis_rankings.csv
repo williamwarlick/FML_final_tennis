@@ -1,0 +1,151 @@
+RK,Nationality,NAME,POINTS,AGE
+1,Serbia,Novak Djokovic,"6,775",35
+2,Spain,Carlos Alcaraz,"6,770",20
+3,Russia,Daniil Medvedev,"5,330",27
+4,Norway,Casper Ruud,"5,165",24
+5,Greece,Stefanos Tsitsipas,"5,015",24
+6,Russia,Andrey Rublev,"4,190",25
+7,Denmark,Holger Rune,"3,865",20
+8,Italy,Jannik Sinner,"3,525",21
+9,USA,Taylor Fritz,"3,380",25
+10,Canada,Felix Auger-Aliassime,"3,235",22
+11,Russia,Karen Khachanov,"3,025",26
+12,USA,Frances Tiafoe,"2,755",25
+13,Great Britain,Cameron Norrie,"2,680",27
+14,Spain,Rafael Nadal,"2,535",36
+15,Poland,Hubert Hurkacz,"2,525",26
+16,Croatia,Borna Coric,"2,240",26
+17,USA,Tommy Paul,"2,170",25
+18,Australia,Alex De Minaur,"1,995",24
+19,Italy,Lorenzo Musetti,"1,960",21
+20,Italy,Matteo Berrettini,"1,832",27
+21,Spain,Pablo Carreno Busta,"1,785",31
+22,Germany,Alexander Zverev,"1,630",26
+23,Croatia,Marin Čilić,"1,600",34
+24,Great Britain,Daniel Evans,"1,480",32
+25,Spain,Roberto Bautista Agut,"1,475",35
+26,Australia,Nick Kyrgios,"1,465",28
+27,Canada,Denis Shapovalov,"1,390",24
+28,Germany,Jan-Lennard Struff,"1,387",33
+29,USA,Sebastian Korda,"1,265",22
+30,Netherlands,Botic Van De Zandschulp,"1,250",27
+31,Argentina,Francisco Cerundolo,"1,200",24
+32,Japan,Yoshihito Nishioka,"1,171",27
+33,Bulgaria,Grigor Dimitrov,"1,125",31
+34,Spain,Alejandro Davidovich Fokina,"1,115",23
+35,USA,Ben Shelton,"1,095",20
+36,Netherlands,Tallon Griekspoor,"1,091",26
+37,Serbia,Miomir Kecmanovic,"1,055",23
+38,Spain,Bernabe Zapata Miralles,"1,016",26
+39,Czech Republic,Jiri Lehecka,992,21
+40,Argentina,Sebastian Baez,985,22
+41,USA,Maxime Cressy,985,26
+42,Great Britain,Andy Murray,965,35
+43,Finland,Emil Ruusuvuori,957,24
+44,France,Richard Gasquet,931,36
+45,France,Adrian Mannarino,927,34
+46,Serbia,Dusan Lajovic,924,32
+47,USA,Brandon Nakashima,902,21
+48,Italy,Lorenzo Sonego,890,28
+49,Kazakhstan,Alexander Bublik,880,25
+50,France,Ugo Humbert,877,24
+51,Spain,Roberto Carballes Baena,876,30
+52,Sweden,Mikael Ymer,870,24
+53,Russia,Aslan Karatsev,863,29
+54,USA,J.J. Wolf,860,24
+55,USA,Mackenzie McDonald,855,28
+56,Chile,Nicolas Jarry,852,27
+57,China,Yibing Wu,838,23
+58,Great Britain,Jack Draper,832,21
+59,Slovakia,Alex Molcan,830,25
+60,USA,Marcos Giron,826,29
+61,Argentina,Tomas Martin Etcheverry,826,23
+62,Serbia,Laslo Djere,825,27
+63,France,Gregoire Barrere,813,29
+64,France,Benjamin Bonzi,808,26
+65,Germany,Daniel Altmaier,792,24
+66,Australia,Jason Kubler,782,29
+67,France,Corentin Moutet,781,24
+68,Argentina,Pedro Cachin,777,28
+69,China,Zhizhen Zhang,770,26
+70,France,Constant Lestienne,768,30
+71,France,Quentin Halys,761,26
+72,Spain,Albert Ramos-Vinolas,745,35
+73,Belarus,Ilya Ivashka,741,29
+74,Serbia,Filip Krajinovic,741,31
+75,Spain,Jaume Munar,740,26
+76,USA,Jenson Brooksby,730,22
+77,Australia,Alexei Popyrin,726,23
+78,Australia,Christopher O'Connell,724,28
+79,Chile,Cristian Garin,723,26
+80,Australia,Jordan Thompson,723,29
+81,USA,John Isner,720,38
+82,Switzerland,Marc-Andrea Huesler,720,26
+83,Italy,Marco Cecchinato,720,30
+84,Switzerland,Stan Wawrinka,717,38
+85,France,Luca Van Assche,716,18
+86,USA,Christopher Eubanks,715,27
+87,Australia,Max Purcell,714,25
+88,Portugal,Nuno Borges,713,26
+89,France,Arthur Rinderknech,711,27
+90,Argentina,Federico Coria,701,31
+91,Argentina,Diego Schwartzman,695,30
+92,Hungary,Marton Fucsovics,691,31
+93,Russia,Alexander Shevchenko,657,22
+94,Colombia,Daniel Elahi Galan,647,26
+95,Korea,SoonWoo Kwon,644,25
+96,Austria,Dominic Thiem,640,29
+97,Peru,Juan Pablo Varillas,638,27
+98,Brazil,Thiago Monteiro,627,28
+99,Italy,Matteo Arnaldi,608,22
+100,France,Alexandre Muller,605,26
+101,Germany,Yannick Hanfmann,602,31
+102,Croatia,Borna Gojo,594,25
+103,Russia,Roman Safiullin,586,25
+104,Australia,Thanasi Kokkinakis,576,27
+105,Argentina,Juan Manuel Cerundolo,575,21
+106,Australia,James Duckworth,571,31
+107,Belgium,David Goffin,570,32
+108,Russia,Pavel Kotov,565,24
+109,Japan,Taro Daniel,562,30
+110,France,Hugo Gaston,560,22
+111,Japan,Yosuke Watanuki,558,25
+112,Moldova,Radu Albot,548,33
+113,USA,Aleksandar Kovacevic,545,24
+114,Germany,Oscar Otte,541,29
+115,Switzerland,Dominic Stricker,541,20
+116,Ecuador,Emilio Gomez,537,31
+117,Finland,Otto Virtanen,528,21
+118,USA,Michael Mmoh,523,25
+119,France,Arthur Fils,520,18
+120,Italy,Giulio Zeppieri,513,21
+121,Hungary,Zsombor Piros,510,23
+122,Austria,Sebastian Ofner,506,26
+123,Argentina,Facundo Bagnis,505,33
+124,France,Hugo Grenier,504,27
+125,Czech Republic,Tomas Machac,499,22
+126,Italy,Francesco Passaro,499,22
+127,Australia,Aleksandar Vukic,493,27
+128,Netherlands,Gijs Brouwer,485,27
+129,Austria,Filip Misolic,478,21
+130,Italy,Fabio Fognini,468,35
+131,Belgium,Zizou Bergs,467,23
+132,Austria,Jurij Rodionov,452,23
+133,Slovakia,Norbert Gombos,450,32
+134,Argentina,Facundo Diaz Acosta,446,22
+135,Hungary,Fabian Marozsan,441,23
+136,Slovakia,Lukas Klein,438,25
+137,USA,Denis Kudla,433,30
+138,Great Britain,Liam Broady,433,29
+139,Australia,Rinky Hijikata,431,22
+140,Italy,Raul Brancaccio,426,26
+141,Slovakia,Jozef Kovalik,422,30
+142,Spain,Pedro Martinez,416,26
+143,Chile,Tomas Barrios Vera,416,25
+144,Kazakhstan,Timofey Skatov,412,22
+145,Italy,Andrea Vavassori,410,28
+146,Sweden,Elias Ymer,401,27
+147,Japan,Kaichi Uchida,396,28
+148,Germany,Maximilian Marterer,395,27
+149,Germany,Dominik Koepfer,395,29
+150,Argentina,Thiago Agustin Tirante,393,22
